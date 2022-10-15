@@ -1,0 +1,3 @@
+C:\Users\mateu\source\repos\CursoCSharp\CursoCSharp\obj\Debug\CursoCSharp.csproj.AssemblyReference.cache
+C:\Users\mateu\source\repos\CursoCSharp\CursoCSharp\obj\Debug\CursoCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\mateu\source\repos\CursoCSharp\CursoCSharp\obj\Debug\CursoCSharp.csproj.CoreCompileInputs.cache
